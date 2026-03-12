@@ -5,12 +5,12 @@ Este curso é uma iniciativa de **Atividade Extensionista** da disciplina de Ci�
 ## 🎯 Objetivo
 Proporcionar uma formação básica e acessível em programação Python, focada na manipulação, análise e visualização de dados para o público externo, incentivando o pensamento crítico e analítico.
 
-## 👥 Equipe (Equipe X)
-* **Integrante 1** - Iury Rodrigues
-* **Integrante 2** - Davi Pereira
-* **Integrante 3** - João Guilherme de Castro
-* **Integrante 4** - Guilherme Gonçalves
-* **Integrante 5** - Arthur Sales
+## 👥 Equipe (Equipe H)
+* **Integrante 1** - Iury Rodrigues - 2315700
+* **Integrante 2** - Davi Pereira - 2315099
+* **Integrante 3** - João Guilherme de Castro - 2310296
+* **Integrante 4** - Guilherme Gonçalves - 2310299
+* **Integrante 5** - Arthur Sales - 2310324
 
 ## 📚 Estrutura do Curso
 O curso está dividido em quatro módulos progressivos:
